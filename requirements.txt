@@ -1,0 +1,9 @@
+tkinter
+speech_recognition
+sounddevice
+numpy
+pygame
+google-cloud-texttospeech
+google-generativeai
+google-cloud-translate
+Pillow
